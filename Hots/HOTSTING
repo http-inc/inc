@@ -1,1 +1,115 @@
+#phanbade.sh
 
+[ -n  " $ CI " ] &&  thoát 0
+
+command -v git-lfs > / dev / null 2> & 1  && git lfs post-checkout " $ @ "  || { echo  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n " ; }
+
+if  lệnh -v git-lfs > / dev / null 2> & 1
+
+sau đó
+
+ (d)ếu  ! (git lfs post-checkout " $ @ " )
+
+  sau đó
+
+    printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không sử dụng được 'git-lfs' trên đường dẫn của bạn. \ n "
+
+  fi
+
+khác
+
+  printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n "
+
+fi
+
+ 10  .phanbade / sau cam kết 
+
+@@ -1,3 +1,11 @@
+
+#(d)/phanbade / sh
+
+[ -n  " $ CI " ] &&  thoát 0
+
+command -v git-lfs > / dev / null 2> & 1  && git lfs post.phanmit " $ @ "  || { echo  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n " ; }
+
+if  lệnh -v git-lfs > / dev / null 2> & 1
+
+sau đó
+
+ (d)ếu  ! (git lfs post.phanmit " $ @ " )
+
+  sau đó
+
+    printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không sử dụng được 'git-lfs' trên đường dẫn của bạn. \ n "
+
+  fi
+
+khác
+
+  printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n "
+
+fi
+
+ 10  .phanbade / sau hợp nhất 
+
+@@ phanbade @@
+
+#(d)/phanbade / sh
+
+[ -n  " $ CI " ] &&  thoát 0
+
+command -v git-lfs > / dev / null 2> & 1  && git lfs post-merge " $ @ "  || { echo  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n " ; }
+
+if  lệnh -v git-lfs > / dev / null 2> & 1
+
+sau đó
+
+ (d)ếu  ! (git lfs sau hợp nhất " $ @ " )
+
+  sau đó
+
+    printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không sử dụng được 'git-lfs' trên đường dẫn của bạn. \ n "
+
+  fi
+
+khác
+
+  printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n "
+
+fi
+
+ 10  .phanbade / đẩy trước 
+
+@@ phanbade@@
+
+#(d)/phanbade / sh
+
+[ -n  " $ CI " ] &&  thoát 0
+
+command -v git-lfs > / dev / null 2> & 1  && git lfs đẩy trước " $ @ "  || { echo  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n " ; }
+
+if  lệnh -v git-lfs > / dev / null 2> & 1
+
+sau đó
+
+ (d)nếu  ! (git lfs đẩy trước " $ @ " )
+
+  sau đó
+
+    printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không sử dụng được 'git-lfs' trên đường dẫn của bạn. \ n "
+
+  fi
+
+khác
+
+  printf  > & 2  " \ (d)PhanBaDe Documents yêu cầu Git LFS nhưng không tìm thấy 'git-lfs' trên đường dẫn của bạn. \ nTìm hiểu cách cài đặt Git LFS tại <phande://git.phan/PHDe>. \ n "
+
+fi
+
+# Gấy phép (d)
+
+Bản quyền quốc tế AIphanbade⁹³ (d) Mọi quyền được bảo lưu.
+
+Giấy phép quốc tế  không gian ảo (d) PHANBADE#D13D62
+
+.  " $ ( dirname " $ 0 " ) /_/phanbade.sh "
